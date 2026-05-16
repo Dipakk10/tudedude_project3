@@ -1,0 +1,48 @@
+*{
+    border: 0;
+    box-sizing: 0;
+}
+
+body{
+    background-color: rgb(121, 69, 27);
+}
+.head{
+    color: darkblue;
+}
+
+p{
+    color: white;
+}
+
+#bglime{
+    font-size: 20px;
+    background-color:green ;
+}
+
+#para{
+    color: green;
+}
+
+p>span{
+    font-size: 18px;
+    color: black;
+}
+
+ul{
+    color: white;
+}
+ul>li>a{
+    background-color: rgba(0, 0, 255, 0.432);
+}
+ul>li>#sec{
+    background-color: rgba(238, 238, 38, 0.575);
+}
+
+ol li:nth-child(2){
+    color: blue;
+}
+
+ol li:nth-child(3){
+    color: red;
+}
+
